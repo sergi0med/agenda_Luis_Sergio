@@ -6,4 +6,5 @@
  *
  */
 module agenda3 {
+	requires java.desktop;
 }
